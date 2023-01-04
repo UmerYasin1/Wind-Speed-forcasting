@@ -2,4 +2,4 @@
 
 https://drive.google.com/file/d/1QbXVAuoBcObjWGssHS5blmOfp2JGt_yw/view?usp=share_link
 
-<img src="https://drive.google.com/file/d/1QbXVAuoBcObjWGssHS5blmOfp2JGt_yw/view">
+<img src="https://drive.google.com/uc?export=view&id=1QbXVAuoBcObjWGssHS5blmOfp2JGt_yw">
